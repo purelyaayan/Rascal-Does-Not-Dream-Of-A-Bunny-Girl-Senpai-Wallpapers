@@ -37,7 +37,7 @@ More wallpapers will be added in future releases.
 If you like the pack, consider starring the repository ⭐
 
 
-## Preview
+## Image Preview
 
 <img width="3840" height="2160" alt="220842" src="https://github.com/user-attachments/assets/90e2725a-1f28-49fa-97a2-36e193b53fd0" />
 
