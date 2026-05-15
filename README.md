@@ -35,3 +35,11 @@ This pack includes aesthetic desktop wallpapers inspired by the anime, featuring
 More wallpapers will be added in future releases.
 
 If you like the pack, consider starring the repository ⭐
+
+
+##Preview
+1.
+<img width="3840" height="2160" alt="220842" src="https://github.com/user-attachments/assets/90e2725a-1f28-49fa-97a2-36e193b53fd0" />
+
+2.
+<img width="1920" height="1080" alt="212751" src="https://github.com/user-attachments/assets/42c088d8-aa49-40f9-a901-1bf0bc1adac8" />
